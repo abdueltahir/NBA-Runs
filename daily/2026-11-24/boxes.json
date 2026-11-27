@@ -1,0 +1,93 @@
+[
+ {
+  "team": "DEN",
+  "player": "Jamal Murray",
+  "pts": 20,
+  "reb": 2,
+  "ast": 3
+ },
+ {
+  "team": "DEN",
+  "player": "Nikola Jokic",
+  "pts": 18,
+  "reb": 11,
+  "ast": 5
+ },
+ {
+  "team": "DEN",
+  "player": "Cameron Johnson",
+  "pts": 17,
+  "reb": 5,
+  "ast": 3
+ },
+ {
+  "team": "DEN",
+  "player": "Christian Braun",
+  "pts": 15,
+  "reb": 2,
+  "ast": 4
+ },
+ {
+  "team": "DEN",
+  "player": "Aaron Gordon",
+  "pts": 1,
+  "reb": 3,
+  "ast": 3
+ },
+ {
+  "team": "DEN",
+  "player": "DeMar DeRozan",
+  "pts": 9,
+  "reb": 5,
+  "ast": 1
+ },
+ {
+  "team": "DEN",
+  "player": "Marvin Bagley III",
+  "pts": 9,
+  "reb": 3,
+  "ast": 0
+ },
+ {
+  "team": "DEN",
+  "player": "Spencer Jones",
+  "pts": 7,
+  "reb": 3,
+  "ast": 1
+ },
+ {
+  "team": "DEN",
+  "player": "Tyus Jones",
+  "pts": 2,
+  "reb": 2,
+  "ast": 1
+ },
+ {
+  "team": "DEN",
+  "player": "Alpha Diallo",
+  "pts": 2,
+  "reb": 1,
+  "ast": 1
+ },
+ {
+  "team": "DEN",
+  "player": "Zeke Nnaji",
+  "pts": 1,
+  "reb": 1,
+  "ast": 0
+ },
+ {
+  "team": "DEN",
+  "player": "DaRon Holmes II",
+  "pts": 0,
+  "reb": 0,
+  "ast": 0
+ },
+ {
+  "team": "DEN",
+  "player": "Trevon Brazile",
+  "pts": 0,
+  "reb": 3,
+  "ast": 0
+ }
+]

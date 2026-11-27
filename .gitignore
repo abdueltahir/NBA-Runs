@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+# Built by v2/build_dataset.py and v3/model.py each run
+v2/v2_games.parquet
+v3/v3_games.parquet
+# Symlink to the base repo's data (kyleskom/NBA-Machine-Learning-Sports-Betting); not ours to commit
+Data
