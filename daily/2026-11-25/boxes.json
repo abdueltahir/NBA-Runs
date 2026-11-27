@@ -1,0 +1,212 @@
+[
+ {
+  "team": "OKC",
+  "player": "Shai Gilgeous-Alexander",
+  "pts": 32,
+  "reb": 3,
+  "ast": 5
+ },
+ {
+  "team": "OKC",
+  "player": "A. Mitchell",
+  "pts": 25,
+  "reb": 3,
+  "ast": 3
+ },
+ {
+  "team": "OKC",
+  "player": "I. Hartenstein",
+  "pts": 8,
+  "reb": 16,
+  "ast": 6
+ },
+ {
+  "team": "OKC",
+  "player": "B. Stirtz",
+  "pts": 6,
+  "reb": 1,
+  "ast": 2
+ },
+ {
+  "team": "OKC",
+  "player": "M. Peavy",
+  "pts": 2,
+  "reb": 7,
+  "ast": 0
+ },
+ {
+  "team": "OKC",
+  "player": "K. Williams",
+  "pts": 13,
+  "reb": 5,
+  "ast": 1
+ },
+ {
+  "team": "OKC",
+  "player": "A. Caruso",
+  "pts": 11,
+  "reb": 2,
+  "ast": 2
+ },
+ {
+  "team": "OKC",
+  "player": "J. McCain",
+  "pts": 9,
+  "reb": 1,
+  "ast": 1
+ },
+ {
+  "team": "OKC",
+  "player": "N. Clifford",
+  "pts": 0,
+  "reb": 2,
+  "ast": 0
+ },
+ {
+  "team": "MIL",
+  "player": "Tyler Herro",
+  "pts": 28,
+  "reb": 2,
+  "ast": 5
+ },
+ {
+  "team": "MIL",
+  "player": "Jaime Jaquez Jr.",
+  "pts": 21,
+  "reb": 5,
+  "ast": 4
+ },
+ {
+  "team": "MIL",
+  "player": "Kel'el Ware",
+  "pts": 13,
+  "reb": 14,
+  "ast": 2
+ },
+ {
+  "team": "MIL",
+  "player": "Kyle Kuzma",
+  "pts": 13,
+  "reb": 3,
+  "ast": 2
+ },
+ {
+  "team": "MIL",
+  "player": "Nate Ament",
+  "pts": 8,
+  "reb": 3,
+  "ast": 0
+ },
+ {
+  "team": "MIL",
+  "player": "Myles Turner",
+  "pts": 3,
+  "reb": 6,
+  "ast": 2
+ },
+ {
+  "team": "MIL",
+  "player": "Brayden Burries",
+  "pts": 3,
+  "reb": 3,
+  "ast": 3
+ },
+ {
+  "team": "MIL",
+  "player": "Kasparas Jakucionis",
+  "pts": 4,
+  "reb": 4,
+  "ast": 3
+ },
+ {
+  "team": "MIL",
+  "player": "Ryan Rollins",
+  "pts": 2,
+  "reb": 3,
+  "ast": 3
+ },
+ {
+  "team": "MIL",
+  "player": "Caris LeVert",
+  "pts": 2,
+  "reb": 1,
+  "ast": 2
+ },
+ {
+  "team": "MIL",
+  "player": "A.J. Green",
+  "pts": 0,
+  "reb": 0,
+  "ast": 0
+ },
+ {
+  "team": "POR",
+  "player": "Deni Avdija",
+  "pts": 33,
+  "reb": 12,
+  "ast": 7
+ },
+ {
+  "team": "POR",
+  "player": "Damian Lillard",
+  "pts": 29,
+  "reb": 3,
+  "ast": 7
+ },
+ {
+  "team": "POR",
+  "player": "Sidy Cissoko",
+  "pts": 16,
+  "reb": 4,
+  "ast": 2
+ },
+ {
+  "team": "POR",
+  "player": "Toumani Camara",
+  "pts": 8,
+  "reb": 4,
+  "ast": 2
+ },
+ {
+  "team": "POR",
+  "player": "Donovan Clingan",
+  "pts": 5,
+  "reb": 8,
+  "ast": 2
+ },
+ {
+  "team": "POR",
+  "player": "Jrue Holiday",
+  "pts": 11,
+  "reb": 6,
+  "ast": 7
+ },
+ {
+  "team": "POR",
+  "player": "Scoot Henderson",
+  "pts": 10,
+  "reb": 5,
+  "ast": 1
+ },
+ {
+  "team": "POR",
+  "player": "Robert Williams III",
+  "pts": 4,
+  "reb": 3,
+  "ast": 0
+ },
+ {
+  "team": "POR",
+  "player": "Yang Hansen",
+  "pts": 0,
+  "reb": 2,
+  "ast": 1
+ },
+ {
+  "team": "POR",
+  "player": "Jayson Kent",
+  "pts": 0,
+  "reb": 3,
+  "ast": 0
+ }
+]

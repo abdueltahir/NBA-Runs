@@ -1,0 +1,58 @@
+[
+ {
+  "date": "2026-11-05",
+  "game": "ORL@PHX",
+  "grade": "",
+  "id": "2026-11-05|winner|market|ORL@PHX|PHX",
+  "market": "winner",
+  "market_prob": null,
+  "model": "market",
+  "note": "spread -1.5 (home)",
+  "outcome": "hit",
+  "pick": "PHX",
+  "prob": 0.546,
+  "result": "ORL 104\u2013PHX 117"
+ },
+ {
+  "date": "2026-11-05",
+  "game": "ORL@PHX",
+  "grade": "",
+  "id": "2026-11-05|winner|v3|ORL@PHX|PHX",
+  "market": "winner",
+  "market_prob": 0.546,
+  "model": "v3",
+  "note": "proj ORL 110.5\u2013PHX 112.0",
+  "outcome": "hit",
+  "pick": "PHX",
+  "prob": 0.547,
+  "result": "ORL 104\u2013PHX 117"
+ },
+ {
+  "date": "2026-11-05",
+  "game": "MIA@GSW",
+  "grade": "",
+  "id": "2026-11-05|winner|market|MIA@GSW|GSW",
+  "market": "winner",
+  "market_prob": null,
+  "model": "market",
+  "note": "spread -4.5 (home)",
+  "outcome": "hit",
+  "pick": "GSW",
+  "prob": 0.637,
+  "result": "MIA 100\u2013GSW 120"
+ },
+ {
+  "date": "2026-11-05",
+  "game": "MIA@GSW",
+  "grade": "",
+  "id": "2026-11-05|winner|v3|MIA@GSW|GSW",
+  "market": "winner",
+  "market_prob": 0.637,
+  "model": "v3",
+  "note": "proj MIA 115.7\u2013GSW 120.3",
+  "outcome": "hit",
+  "pick": "GSW",
+  "prob": 0.642,
+  "result": "MIA 100\u2013GSW 120"
+ }
+]

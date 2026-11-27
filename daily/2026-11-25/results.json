@@ -1,0 +1,56 @@
+[
+ {
+  "away": "Brooklyn Nets",
+  "away_pts": 104,
+  "home": "Milwaukee Bucks",
+  "home_pts": 97
+ },
+ {
+  "away": "Chicago Bulls",
+  "away_pts": 107,
+  "home": "Charlotte Hornets",
+  "home_pts": 105
+ },
+ {
+  "away": "Cleveland Cavaliers",
+  "away_pts": 102,
+  "home": "New York Knicks",
+  "home_pts": 121
+ },
+ {
+  "away": "Los Angeles Clippers",
+  "away_pts": 97,
+  "home": "Memphis Grizzlies",
+  "home_pts": 115
+ },
+ {
+  "away": "Miami Heat",
+  "away_pts": 104,
+  "home": "Philadelphia 76ers",
+  "home_pts": 111
+ },
+ {
+  "away": "Minnesota Timberwolves",
+  "away_pts": 113,
+  "home": "Oklahoma City Thunder",
+  "home_pts": 106
+ },
+ {
+  "away": "Phoenix Suns",
+  "away_pts": 104,
+  "home": "Houston Rockets",
+  "home_pts": 116
+ },
+ {
+  "away": "Sacramento Kings",
+  "away_pts": 110,
+  "home": "Golden State Warriors",
+  "home_pts": 129
+ },
+ {
+  "away": "San Antonio Spurs",
+  "away_pts": 111,
+  "home": "Portland Trail Blazers",
+  "home_pts": 116
+ }
+]
